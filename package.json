@@ -1,0 +1,15 @@
+{
+  "name": "visits-app",
+  "version": "1.0.0",
+  "description": "visits node app",
+  "main": "index.js",
+  "author": "sumitoma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
